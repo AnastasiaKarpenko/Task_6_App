@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task_6_App</string>
+    <string name="btn_text_download">Download</string>
+    <string name="btn_text_show">Show Image</string>
+    <string name="et_hint_text">Input Url</string>
+    <string name="rationale_text">Without permission the image cannot be donwloaded</string>
+    <string name="permissions_notification">You can set permissions in the settings</string>
+    <string name="permissions_alert_text">Go to Settings</string>
+</resources>
